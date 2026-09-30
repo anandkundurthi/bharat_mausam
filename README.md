@@ -1,15 +1,16 @@
-# 🌆 CityPulse — Urban Intelligence Platform
+# 🇮🇳 BharatMausam
 
-> **A modern urban intelligence platform that transforms city data into actionable insights for smarter, more connected cities.**
+### India's Weather Intelligence & Visualization Platform
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-CityPulse-blue?style=for-the-badge)](https://citypulseurbanintelligenceplatform.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)](https://github.com/anandkundurthi/citypulse_urban_intelligence_platform)
+BharatMausam is a modern web application focused on presenting **weather and atmospheric information for India** through a clean, intuitive, and responsive user interface.
+
+The project is designed to make weather information easier to explore and understand by bringing relevant information together in a modern digital experience.
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
-### 🌐 [Explore CityPulse](https://citypulseurbanintelligenceplatform.vercel.app/)
+### 👉 [BharatMausam — Live Website](https://citypulseurbanintelligenceplatform.vercel.app/)
 
 Experience the deployed application:
 
@@ -17,146 +18,149 @@ Experience the deployed application:
 
 ---
 
-## 📌 About The Project
+## ✨ Overview
 
-**CityPulse** is an Urban Intelligence Platform designed to provide a centralized and interactive view of city-level information.
+Weather information is an important part of everyday life in India — from planning travel and outdoor activities to understanding changing environmental conditions.
 
-The platform brings together urban data, visual analytics, insights, and intelligent interfaces into a modern dashboard experience.
+**BharatMausam** aims to provide a simple and modern interface for exploring weather-related information across India.
 
-Instead of presenting city information as disconnected datasets, CityPulse aims to make urban information:
+The project combines:
 
-* 📊 **Understandable**
-* 🗺️ **Interactive**
-* 🧠 **Insight-driven**
-* ⚡ **Easy to explore**
-* 🎯 **Actionable**
-
-The project was built as a modern frontend application with a strong focus on **UI/UX, data visualization, responsiveness, and real-world usability**.
-
----
-
-## ✨ Key Features
-
-### 🏙️ Urban Intelligence Dashboard
-
-A centralized interface for exploring important city-level information through a clean and interactive dashboard.
-
-### 📊 Data Visualization
-
-Present complex urban information through intuitive visual representations, helping users understand trends and patterns quickly.
-
-### 🗺️ Location-Based Insights
-
-Explore information from a city-centric perspective and understand how different urban factors relate to specific locations.
-
-### 🔎 Smart Exploration
-
-Designed to make discovering urban information faster and easier through an intuitive interface.
-
-### 📱 Responsive Design
-
-The interface is designed to work across:
-
-* 💻 Desktop
-* 📱 Mobile
-* 📟 Tablet
-
-### 🎨 Modern UI/UX
-
-CityPulse focuses on:
-
-* Clean visual hierarchy
-* Modern dashboard components
-* Consistent spacing
-* Interactive elements
-* Responsive layouts
-* Accessible information presentation
+* 🇮🇳 India-focused weather experience
+* 🌦️ Weather information
+* 📊 Data visualization
+* 🗺️ Location-based exploration
+* 📱 Responsive design
+* 🎨 Modern user interface
 
 ---
 
-## 🧠 Why CityPulse?
+## 🎯 Project Goals
 
-Modern cities generate enormous amounts of information.
+BharatMausam was created with the following goals:
 
-Transportation, infrastructure, environment, public services, population, safety, development, and other urban systems continuously produce data.
+* Build a real-world weather application
+* Create an India-focused weather experience
+* Present weather information in an easy-to-understand way
+* Practice modern frontend development
+* Build an interactive and responsive interface
+* Explore the combination of data, visualization, and user experience
 
-However, raw data alone doesn't provide useful intelligence.
+---
 
-**CityPulse focuses on turning urban information into an experience that people can actually understand and explore.**
+## 🚀 Key Highlights
 
-### The idea
+### 🇮🇳 India-Centric Experience
+
+Designed specifically around the Indian context, making the platform relevant to users exploring weather information across India.
+
+### 🌦️ Weather Information
+
+Provides a dedicated interface for accessing and understanding weather-related information.
+
+### 📊 Visual Data Experience
+
+Weather information can be easier to understand when presented visually. BharatMausam focuses on creating a clean data-driven experience instead of relying only on raw numbers.
+
+### 🗺️ Location Awareness
+
+The application is designed around geographic and location-based weather exploration.
+
+### 📱 Responsive Interface
+
+The interface is designed to provide a consistent experience across different screen sizes:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+### ⚡ Modern Web Experience
+
+BharatMausam focuses on a clean interface, smooth interactions, readable information hierarchy, and modern web design principles.
+
+---
+
+## 🛠️ Technology
+
+The project is built as a modern web application.
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+
+### Development Tools
+
+* npm
+* Git
+* GitHub
+
+### Deployment
+
+* Vercel
+
+---
+
+## 🏗️ Application Concept
+
+The overall concept of BharatMausam can be represented as:
 
 ```text
-                 CITY DATA
-                     │
-                     ▼
+                 🇮🇳 INDIA
+                    │
+                    ▼
             ┌─────────────────┐
-            │    CityPulse    │
-            │ Urban Intelligence│
+            │   BHARATMAUSAM  │
+            │ Weather Platform│
             └────────┬────────┘
                      │
           ┌──────────┼──────────┐
           ▼          ▼          ▼
-       Analytics   Insights   Visualization
+       Locations   Weather    Insights
           │          │          │
           └──────────┼──────────┘
                      ▼
-             Better Understanding
-                of the City
+             Visual Information
+                     │
+                     ▼
+              Better Weather
+               Understanding
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 📸 Screenshots
 
-The project is built using modern web technologies.
+Add screenshots of the application here.
 
-### Frontend
-
-* ⚛️ React
-* 🟨 JavaScript
-* 🎨 HTML5
-* 🎨 CSS3
-
-### Development
-
-* 📦 npm
-* 🔧 Git
-* 🐙 GitHub
-
-### Deployment
-
-* ▲ Vercel
-
----
-
-## 🏗️ Project Structure
+### 🏠 Main Dashboard
 
 ```text
-citypulse_urban_intelligence_platform/
-│
-├── public/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── styles/
-│   └── ...
-│
-├── package.json
-├── package-lock.json
-├── README.md
-└── ...
+Add your dashboard screenshot here
 ```
 
-> The exact structure may evolve as the platform continues to develop.
+### 🌦️ Weather Information
+
+```text
+Add weather screen screenshot here
+```
+
+### 📱 Responsive Design
+
+```text
+Add mobile/responsive screenshot here
+```
+
+> Tip: Adding 3–5 real screenshots or a short GIF of the application will make the repository much more visually appealing.
 
 ---
 
 ## ⚙️ Getting Started
 
-Follow these steps to run CityPulse locally.
+Follow the steps below to run BharatMausam locally.
 
 ### 1. Clone the repository
 
@@ -164,7 +168,7 @@ Follow these steps to run CityPulse locally.
 git clone https://github.com/anandkundurthi/citypulse_urban_intelligence_platform.git
 ```
 
-### 2. Navigate into the project
+### 2. Navigate to the project
 
 ```bash
 cd citypulse_urban_intelligence_platform
@@ -184,7 +188,9 @@ npm run dev
 
 ### 5. Open the application
 
-Visit the local development URL shown in your terminal, typically:
+Open the local development URL provided by Vite in your browser.
+
+Usually:
 
 ```text
 http://localhost:5173
@@ -192,141 +198,133 @@ http://localhost:5173
 
 ---
 
-## 🌐 Deployment
+## 📁 Project Structure
 
-CityPulse is deployed using **Vercel**.
+```text
+BharatMausam/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   └── ...
+│
+├── package.json
+├── package-lock.json
+├── README.md
+└── ...
+```
 
-### Production
-
-**https://citypulseurbanintelligenceplatform.vercel.app/**
-
-Every update to the connected repository can be deployed through the Vercel workflow.
+> Update this section if your actual folder structure differs.
 
 ---
 
-## 📸 Screenshots
+## 🔮 Future Roadmap
 
-> Add screenshots of the major sections of CityPulse here.
+BharatMausam can be expanded into a larger weather intelligence platform.
 
-### Dashboard
+Possible future improvements include:
 
-```text
-Add dashboard screenshot here
-```
-
-### Analytics
-
-```text
-Add analytics screenshot here
-```
-
-### City Insights
-
-```text
-Add city insights screenshot here
-```
-
-### Mobile View
-
-```text
-Add mobile screenshot here
-```
-
----
-
-## 🎯 Project Goals
-
-The main goals of CityPulse are to:
-
-* Build a modern real-world frontend application
-* Demonstrate dashboard and data visualization skills
-* Practice responsive UI development
-* Create an intuitive urban information experience
-* Explore how technology can improve access to city information
-* Build a portfolio project around a realistic product concept
-
----
-
-## 🔮 Future Improvements
-
-CityPulse can be extended into a much larger urban intelligence ecosystem.
-
-Potential improvements include:
-
-* 🤖 AI-powered city insights
-* 📍 Real-time location intelligence
-* 🚦 Live traffic information
-* 🚌 Public transportation tracking
-* 🌦️ Real-time weather and environmental monitoring
-* 🌳 Urban sustainability metrics
-* 🏗️ Infrastructure monitoring
-* 🚨 Public safety intelligence
-* 📈 Predictive urban analytics
-* 🧠 AI-powered recommendations
-* 🗺️ Advanced interactive maps
-* 🔔 Real-time city alerts
-* 👤 Personalized city dashboards
-* 📊 Historical trend analysis
-* 🌐 Multi-city comparison
+* 🌧️ Rainfall tracking
+* 🌪️ Severe weather alerts
+* 🌡️ Historical weather data
+* 📈 Weather trend analysis
+* 🗺️ Interactive weather maps
+* 🌬️ Air-quality information
+* 🌾 Agriculture-focused weather insights
+* 🚨 Extreme-weather notifications
+* 📍 More detailed location search
+* 🤖 AI-powered weather explanations
+* 🔔 Personalized weather alerts
+* 📊 Historical vs current weather comparison
+* 🛰️ Satellite/weather visualization
+* 🏙️ Multi-city comparison
 
 ---
 
 ## 💡 Future Vision
 
-The long-term vision for CityPulse is to evolve from a dashboard into a **complete urban intelligence ecosystem**.
+The long-term vision for BharatMausam is to evolve beyond a basic weather interface into an **India-focused weather intelligence platform**.
 
 ```text
-                 ┌─────────────────────┐
-                 │      CITYPULSE      │
-                 │ Urban Intelligence  │
-                 └──────────┬──────────┘
-                            │
-       ┌────────────────────┼────────────────────┐
-       │                    │                    │
-       ▼                    ▼                    ▼
-   Mobility             Environment         Infrastructure
-       │                    │                    │
-       ▼                    ▼                    ▼
-   Transport             Air Quality          Development
-   Traffic               Weather              Utilities
-   Roads                 Sustainability       Public Assets
-       │                    │                    │
-       └────────────────────┼────────────────────┘
-                            ▼
-                    AI / DATA ANALYTICS
-                            │
-                            ▼
-                    URBAN INSIGHTS
-                            │
-                            ▼
-                 SMARTER CITY DECISIONS
+                 BHARATMAUSAM
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+        ▼             ▼             ▼
+     Weather       Climate        Alerts
+        │             │             │
+        ▼             ▼             ▼
+    Forecasts     Trends        Warnings
+        │             │             │
+        └─────────────┼─────────────┘
+                      ▼
+                DATA & ANALYTICS
+                      │
+                      ▼
+              WEATHER INTELLIGENCE
+                      │
+                      ▼
+             INFORMED DECISIONS
 ```
+
+---
+
+## 🎓 What I Learned
+
+Building BharatMausam provided hands-on experience with:
+
+* Modern frontend development
+* Responsive UI design
+* Component-based development
+* Data-driven interfaces
+* User-focused information architecture
+* Git and GitHub workflows
+* Production deployment
+* Building a real-world application from concept to deployment
+
+---
+
+## 🚀 Deployment
+
+The application is deployed on **Vercel**.
+
+### Production Website
+
+**[BharatMausam](https://citypulseurbanintelligenceplatform.vercel.app/)**
+
+---
+
+## 🔗 Project Links
+
+| Resource     | Link                                                                                   |
+| ------------ | -------------------------------------------------------------------------------------- |
+| 🌐 Live Demo | [BharatMausam](https://citypulseurbanintelligenceplatform.vercel.app/)                 |
+| 🐙 GitHub    | [Source Code](https://github.com/anandkundurthi/citypulse_urban_intelligence_platform) |
 
 ---
 
 ## 👨‍💻 Author
 
-### Anand Sarma
+### Anand Kundurthi
 
-Full-Stack Developer | AI & Web Development Enthusiast
+Frontend Developer • Full-Stack Developer • AI & Web Development Enthusiast
 
-Building practical products that combine **modern web technologies, intelligent systems, and thoughtful user experiences.**
-
----
-
-## 🔗 Links
-
-🌐 **Live Application**
-https://citypulseurbanintelligenceplatform.vercel.app/
-
-🐙 **GitHub Repository**
-https://github.com/anandkundurthi/citypulse_urban_intelligence_platform
+I enjoy building practical, visually polished applications that combine **technology, data, and user experience**.
 
 ---
 
-## ⭐ Support
+## ⭐ Show Your Support
 
-If you find this project interesting, consider giving the repository a ⭐ on GitHub.
+If you find BharatMausam interesting, consider giving the repository a ⭐.
 
-Your feedback and suggestions are welcome!
+Feedback, suggestions, and contributions are welcome.
 
+---
+
+## 📄 License
+
+This project is currently created for **learning, portfolio, and demonstration purposes**.
